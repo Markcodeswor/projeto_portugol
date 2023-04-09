@@ -1,0 +1,16 @@
+1- Acordo com o despertador do celular 
+ 2- abro os olhos 
+ 3- Procuro o celular 
+ 4- Acho o celular 
+ 5- Desligo o celular 
+ 6- Tem urgência em levantar? Não 
+ 1- Coloco mais 10 minutos na soneca 
+ 7- Sim 
+ 8- Retiro o cobertor 
+ 9- Me sento na cama 
+ 10- Em seguida me levanto 
+ 11- Vou ao banheiro 
+ 12- Escovo os dentes 
+ 13- Lavo o rosto 
+ 14- Seco o rosto 
+ 15- Vou a cozinha preparar o café 
